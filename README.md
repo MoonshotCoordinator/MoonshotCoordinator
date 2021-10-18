@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @MoonshotCoordinator
-- 👀 I’m interested in ... Coordination
-- 🌱 I’m currently learning ... Coordination
-- 💞️ I’m looking to collaborate on ... Coordination 
+- 👋 Hi, I’m Ryan Coordinator @MoonshotCoordinator
+Moonshot Collective at GitcoinDAO 
+moonshotcollective.space gitcoindao.com
+- 👀 I’m interested in ... Coordination Tooling
+- 🌱 I’m currently learning ... Coordination Operations
+- 💞️ I’m looking to collaborate on ... Coordination Initiatives
 - 📫 How to reach me ... @moonshotcoordinator on tg
 
 <!---
